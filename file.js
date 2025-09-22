@@ -29,7 +29,7 @@ fs.appendFile("file.txt","Hello my dear friends",((err)=>{
 // fs.writeFile("MY_vales/My_datas.txt","My wallet balance 0",(err)=>{
    
 //    if(err) throw err;
-//     console.log("filder was created");
+//     console.log("filder was created"); 
     
 // });
 
